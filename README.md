@@ -1,10 +1,9 @@
 # ft_printf
 
 ## Table of contents
-
 * [Introduction](#Introduction)
-* [Setup] (#setup)
-* Features (#features)
+* [Setup](#setup)
+* [Features](#features)
 
 ## Introduction
 My very own implementation of the printf from the C Standard Library.
