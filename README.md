@@ -27,6 +27,8 @@ Remove everything and build again:
 $ make re
 ```
 
+*libftprintf.a* is a compiled ft_printf function file.
+
 ## Features
 Implemented:
 - cspdiuxX% conversions
